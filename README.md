@@ -65,10 +65,6 @@ BFS finds the minimum number of hops between two users.
 
 ---
 
-This README is **GitHub-ready**: it has emojis, clear sections, and recruiter-friendly explanations.  
-
-👉 Do you want me to also create a **modular version (with header + cpp files)** so your repo looks even more professional?
-
 
 
 
